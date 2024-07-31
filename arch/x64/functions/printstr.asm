@@ -1,4 +1,4 @@
-global pr   intstr
+global printstr
 printstr:
   section .text:
     [bits 64]
